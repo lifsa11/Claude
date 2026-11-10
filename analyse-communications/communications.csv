@@ -1,0 +1,12 @@
+id,societe,date,mois,communication,theme,montant_meur,nature_montant,nb_supports,confiance
+S01,Swen,2025-12-17,2025-12,Présentation de l'offre gestion privée (Club Patrimoine),Distribution / gestion privée,,,1,moyenne
+S02,Swen,2026-01-29,2026-01,SWIFT 3 : closing à 440 M€ (gaz renouvelable),Levée de fonds,440,levé,6,haute
+S03,Swen,2026-02-03,2026-02,Territoires Innovants 4 : closing final,Levée de fonds,163,levé,2,moyenne
+S04,Swen,2026-06-15,2026-06,Objectifs Net Zero Asset Managers (base 2025),RSE / impact,,,1,moyenne
+S05,Swen,2026-09-07,2026-09,Gamme Territoires Résilients 5 (objectif 200 M€) et mandat FRR,Levée de fonds,200,objectif,5,haute
+S06,Swen,2026-09-17,2026-09,Swen Terra : 125 M€ levés (agriculture régénératrice),Levée de fonds,125,levé,3,haute
+S07,Swen,2026-09-18,2026-09,Investissement dans Horizom (filière bambou),Investissement,,,2,haute
+S08,Swen,2026-10-01,2026-10,SWEN PE Select Europa 7 : closing final à 236 M€,Levée de fonds,236,levé,6,haute
+S09,Swen,2026-11-05,2026-11,Lancement du fonds de dotation SWEN Philanthropy,RSE / impact,,,3,haute
+S10,Swen,,,Partenaire de l'IPEM Wealth 2026,Événement,,,1,moyenne
+A01,Access,2026-03-27,2026-03,Partenariat Bankinter Investment et évolution de la gouvernance,Actionnariat / gouvernance,115.1,transaction,14,haute

@@ -1,0 +1,45 @@
+ligne,id_communication,societe,date,media,categorie_support,langue,url
+1,S01,Swen,2025-12-17,Club Patrimoine,Presse spécialisée FR,FR,https://www.clubpatrimoine.com/contenus/swen-capital-partners
+2,S02,Swen,2026-01-29,swen-cp.fr (blog),Site de la société,EN,https://www.swen-cp.fr/en/blog/2026/01/29/swen-capital-partners-reaches-e440-million-closing-for-its-renewable-gas-fund/
+3,S02,Swen,2026-01-29,Communiqué PDF,Communiqué PDF,EN,https://www.swen-cp.fr/wp-content/uploads/documents/PR-closing-SWIFT-3.pdf
+4,S02,Swen,2026-01-29,Fortuneo Bourse,Fils boursiers FR,FR,https://bourse.fortuneo.fr/actualites/swen-capital-partners-atteint-un-closing-de-440-me-pour-le-troisieme-millesime-de-sa-gamme-swen-impact-fund-for-transition-606478
+5,S02,Swen,2026-01-29,GreenUnivers,Presse spécialisée FR,FR,https://www.greenunivers.com/2026/01/swen-cp-atteint-440-me-pour-son-fonds-swift-3-devolu-aux-molecules-vertes-414143
+6,S02,Swen,2026-01-29,Décideurs CF,Presse spécialisée FR,FR,https://www.decideurs-cf.com/private-equity/63455-premier-closing-a-440-millions-d-euros-pour-swen-capital-partners.html
+7,S02,Swen,2026-01-29,Private Equity Marketeer,Presse internationale,EN,https://www.privateequitymarketeer.com/fund-closes/swen-capital-partners-reaches-440-million-closing-for-its-renewable-gas-fund
+8,S03,Swen,2026-02-03,Bpifrance (espace presse),Partenaires et actionnaires,FR,https://presse.bpifrance.fr/swen-capital-partners-annonce-le-closing-final-de-son-fonds-swen-territoires-innovants-4
+9,S03,Swen,2026-02-03,CFNews,Presse spécialisée FR,FR,https://www.cfnews.net/L-actualite/LBO/Operations/Levee-de-fonds/Swen-Territoires-Innovants-4-acheve-sa-levee-558217
+10,S04,Swen,2026-06-15,Net Zero Asset Managers,Initiatives de place,EN,https://www.netzeroassetmanagers.org/signatories/swen-capital-partners/
+11,S05,Swen,2026-09-07,Boursorama,Fils boursiers FR,FR,https://www.boursorama.com/bourse/actualites/swen-capital-partners-vise-200-millions-d-euros-pour-soutenir-les-pme-et-eti-francaises-5ee3a71a957cbc2f77498a473a235a1b
+12,S05,Swen,2026-09-07,Option Finance,Fils boursiers FR,FR,https://www.optionfinance.fr/info-financiere-en-continu/d/2026-09-07-swen-capital-partners-vise-200-millions-deuros-pour-soutenir-les-pme-et-eti-francaises.html
+13,S05,Swen,2026-09-07,Bourse Direct,Fils boursiers FR,FR,https://www.boursedirect.fr/fr/actualites/categorie/actualites-financieres/swen-capital-partners-vise-200-millions-d-euros-pour-soutenir-les-pme-et-eti-francaises-zone-bourse-fecaf0049afeb059c8152b4f0b377277a42609d2
+14,S05,Swen,2026-09-07,Easybourse,Fils boursiers FR,FR,https://www.easybourse.com/opcvm/actualite/58399/swen-capital-partners-vise-200-millions-euros-pour-soutenir-pme-eti-francaises.html
+15,S05,Swen,2026-09-07,IPE,Presse internationale,EN,https://www.ipe.com/news/frr-picks-managers-for-500m-in-pe-fund-of-fund-mandates/10137381.article
+16,S06,Swen,2026-09-17,CFNews,Presse spécialisée FR,FR,https://www.cfnews.net/L-actualite/Capital-developpement/Operations/Augmentation-de-capital/Swen-Terra-poursuit-sa-recolte-734841
+17,S06,Swen,2026-09-17,CFNews Infra,Presse spécialisée FR,FR,https://www.cfnewsinfra.net/L-actualite/Levees-de-fonds/Vehicule/Swen-Terra-poursuit-sa-recolte-524325
+18,S06,Swen,2026-09-17,ADEME Investissement,Partenaires et actionnaires,FR,https://www.ademe-investissement.fr/nos-transactions/environnement/swen-terra/
+19,S07,Swen,2026-09-18,Option Finance,Fils boursiers FR,FR,https://www.optionfinance.fr/info-financiere-en-continu/d/2026-09-18-swen-capital-partners-investit-dans-horizom-pour-developper-la-filiere-du-bambou-en-france.html
+20,S07,Swen,2026-09-18,Easybourse,Fils boursiers FR,FR,https://www.easybourse.com/opcvm/actualite/58495/swen-capital-partners-investit-dans-horizom-pour-developper-filiere-bambou-en-france.html
+21,S08,Swen,2026-10-01,swen-cp.fr (blog),Site de la société,EN,https://www.swen-cp.fr/en/blog/2026/10/01/swen-cp-announces-the-final-closing-of-swen-pe-select-europa-7-its-first-sfdr-article-9-multi-strategy-fund/
+22,S08,Swen,2026-10-01,CFNews,Presse spécialisée FR,FR,https://www.cfnews.net/L-actualite/Marche-General/Levee-de-Fonds/Closing-final-pour-Swen-PE-Select-Europa-7-740024
+23,S08,Swen,2026-10-01,CFNews Infra,Presse spécialisée FR,FR,https://www.cfnewsinfra.net/L-actualite/Levees-de-fonds/Vehicule/Closing-final-pour-Swen-PE-Select-Europa-7
+24,S08,Swen,2026-10-01,Pulse 2.0,Presse internationale,EN,https://pulse2.com/__trashed-108/
+25,S08,Swen,2026-10-01,MitchelLake (veille),Presse internationale,EN,https://mitchellake.com/intelligence/wire/swen-capital-partners-capital-raising-2026-10-01
+26,S08,Swen,2026-10-01,LinkedIn (relais collaborateur),Réseaux sociaux,FR,https://www.linkedin.com/in/guillaume-bernardin-39a52363/
+27,S09,Swen,2026-11-05,swen-cp.fr (blog),Site de la société,FR,https://www.swen-cp.fr/blog/2026/11/05/swen-capital-partners-lance-un-fonds-de-dotation-dedie-a-la-nature/
+28,S09,Swen,2026-11-05,CFNews,Presse spécialisée FR,FR,https://www.cfnews.net/L-actualite/Marche-General/ESG/Swen-Philanthropy-se-cree-pour-proteger-la-nature-759232
+29,S09,Swen,2026-11-05,Carenews,Presse spécialisée FR,FR,https://www.carenews.com/aema-groupe/news/philanthropie-ofi-invest-lance-deux-fonds-de-dotation-pour-soutenir-des-projets-d
+30,S10,Swen,,IPEM (site événement),Événements,EN,https://events.ipem-market.com/e/wealth-2026/partner/e868d01d-59c9-f011-8195-0022487f0371/swen-capital-partners
+31,A01,Access,2026-03-27,access-capital-partners.com (actualités),Site de la société,EN,https://www.access-capital-partners.com/en/news/access-capital-partners-announces-strategic-partnership-with-bankinter-investment-and-governance-evolution
+32,A01,Access,2026-03-27,Communiqué PDF,Communiqué PDF,EN,https://www.access-capital-partners.com/uploads/pdf-actualites/2026-03-28-Access-Capital-Partners-announces-Strategic-Partnership-Press-Release-March-2026.pdf
+33,A01,Access,2026-03-27,CFNews,Presse spécialisée FR,FR,https://www.cfnews.net/Les-alertes-de-CFNEWS/Access-Capital-Partners-change-d-actionnaire-de-reference-619210
+34,A01,Access,2026-03-27,PE Magazine,Presse spécialisée FR,FR,https://www.pemagazine.fr/access-capital-partners-se-prepare-a-accueillir-bankinter-a-son-capital-et-a-faire-evoluer-sa-gouvernance/
+35,A01,Access,2026-03-27,NewsAssetPro,Presse spécialisée FR,FR,https://www.newsassetpro.com/ma-access-capital-partners-reste-partiellement-sous-pavillon-espagnol/016944870
+36,A01,Access,2026-03-27,Alternative Credit Investor,Presse internationale,EN,https://alternativecreditinvestor.com/2026/03/27/alantra-offloads-stake-in-access-capital-partners-to-bankinter/
+37,A01,Access,2026-03-27,El Español,Presse espagnole,ES,https://www.elespanol.com/invertia/mis-finanzas/fondos-de-inversion/20260327/bankinter-investment-plenium-integran-gestoras-compran-alantra-access-capital-partners/1003744187129_0.html
+38,A01,Access,2026-03-27,The Objective,Presse espagnole,ES,https://theobjective.com/economia/2026-03-27/bankinter-investment-access-capital-alantra-im-1151-millones/
+39,A01,Access,2026-03-27,Finect,Presse espagnole,ES,https://www.finect.com/usuario/eduardogarcia/articulos/bankinter-investment-refuerza-su-estrategia-en-activos-alternativos-con-dos-grandes-operaciones-en-europa
+40,A01,Access,2026-03-27,Bankinter (salle de presse),Partenaires et actionnaires,EN,https://www.bankinter.com/webcorporativa/en/communication-room/news/institutional/bankinter-investment-and-plenium-partners-merge-their-investment-management-firms-and-acquire-a-significant-stake-of-access-capital-partners-to-drive-their-expansion-in-europe
+41,A01,Access,2026-03-27,Bankinter (blog),Partenaires et actionnaires,ES,https://www.bankinter.com/blog/noticias-bankinter/bankinter-investment-plenium-partners-access-capital
+42,A01,Access,2026-03-27,Alantra (communiqué),Partenaires et actionnaires,EN,https://www.alantra.com/alantra-investment-managers-sells-its-stake-in-access-capital-partners-for-e115-1mn-to-boost-its-growth-strategy/
+43,A01,Access,2026-03-27,CNMV (dépôt Alantra),Régulateur,EN,https://www.cnmv.es/webservices/verdocumento/ver?t=%7B2be9f0e6-5698-45b0-8f82-134a8218b585%7D
+44,A01,Access,2026-03-27,CNMV (dépôt Bankinter),Régulateur,ES,https://www.cnmv.es/webservices/verdocumento/ver?t=%7Bd39ccd2c-489a-4202-b1d3-2b6b1b1a62d8%7D
